@@ -1,10 +1,10 @@
-# my-first-repo
+# my-first-repo Text Section
  
  **bold text**
  
  _italicized text_
 
-## List time
+## List Section
 
 1. first
 1. second
@@ -17,7 +17,7 @@
 * for
 * funsies
 
-### Table
+### Table Section
 
 | Person | Age | Favorite Color | Favorite Animal |
 |--------|-----|----------------|-----------------|
